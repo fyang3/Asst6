@@ -1,3 +1,5 @@
+# QAI Assignment 6
+
 # Problem 2
 # b)
 election_data <- read.csv("C:\\Users\\Funing\\Desktop\\Summer 2022\\QAI & Stats\\QAI\\Election.csv")
